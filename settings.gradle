@@ -1,0 +1,2 @@
+include ':app', ':rxjavashiyong', ':mvpdeshiyong', ':mvpshiyong'
+rootProject.name='wangluore+ra'
